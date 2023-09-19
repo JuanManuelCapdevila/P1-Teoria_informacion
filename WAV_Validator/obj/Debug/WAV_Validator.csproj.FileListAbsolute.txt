@@ -1,0 +1,10 @@
+D:\workspace\visual studio\WAV_Validator\bin\Debug\WAV_Validator.exe.config
+D:\workspace\visual studio\WAV_Validator\bin\Debug\WAV_Validator.exe
+D:\workspace\visual studio\WAV_Validator\bin\Debug\WAV_Validator.pdb
+D:\workspace\visual studio\WAV_Validator\obj\Debug\WAV_Validator.csproj.AssemblyReference.cache
+D:\workspace\visual studio\WAV_Validator\obj\Debug\WAV_Validator.Form1.resources
+D:\workspace\visual studio\WAV_Validator\obj\Debug\WAV_Validator.Properties.Resources.resources
+D:\workspace\visual studio\WAV_Validator\obj\Debug\WAV_Validator.csproj.GenerateResource.cache
+D:\workspace\visual studio\WAV_Validator\obj\Debug\WAV_Validator.csproj.CoreCompileInputs.cache
+D:\workspace\visual studio\WAV_Validator\obj\Debug\WAV_Validator.exe
+D:\workspace\visual studio\WAV_Validator\obj\Debug\WAV_Validator.pdb

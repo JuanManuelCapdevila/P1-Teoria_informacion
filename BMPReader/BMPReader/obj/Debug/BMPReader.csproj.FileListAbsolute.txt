@@ -1,0 +1,6 @@
+F:\UNSJ\4º Año (2021)\2° Cuatrimestre\Teoría de la información\Práctica\BMPReader\BMPReader\bin\Debug\BMPReader.exe.config
+F:\UNSJ\4º Año (2021)\2° Cuatrimestre\Teoría de la información\Práctica\BMPReader\BMPReader\bin\Debug\BMPReader.exe
+F:\UNSJ\4º Año (2021)\2° Cuatrimestre\Teoría de la información\Práctica\BMPReader\BMPReader\bin\Debug\BMPReader.pdb
+F:\UNSJ\4º Año (2021)\2° Cuatrimestre\Teoría de la información\Práctica\BMPReader\BMPReader\obj\Debug\BMPReader.csprojAssemblyReference.cache
+F:\UNSJ\4º Año (2021)\2° Cuatrimestre\Teoría de la información\Práctica\BMPReader\BMPReader\obj\Debug\BMPReader.exe
+F:\UNSJ\4º Año (2021)\2° Cuatrimestre\Teoría de la información\Práctica\BMPReader\BMPReader\obj\Debug\BMPReader.pdb
